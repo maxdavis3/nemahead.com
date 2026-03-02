@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nemahead.com/sitemap.xml
